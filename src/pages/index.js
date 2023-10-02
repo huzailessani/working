@@ -148,7 +148,7 @@ const Home = () => {
       <p className="slider-btn">{data.new}</p>
       <figcaption>
         <h3>{data.title}</h3>
-        <h5>{data.subtitle}</h5>
+        <h5 align="justify">{data.subtitle}</h5>
 
       </figcaption>
       <a href="#"></a>
