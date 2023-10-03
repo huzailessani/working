@@ -35,7 +35,7 @@ body {
   background-color: #f4f6f6;
   font-family: "Gupter";
   margin: 0;
-  /* overflow-x: hidden; */
+  overflow-x: hidden;
 }
 
 .layout {
@@ -1000,7 +1000,7 @@ body {
 
 /* ***************International Ombudsman*************** */
 .underline {
-  border-bottom: 1px solid #01ab55; /* Add a 1px solid line below the text */
+  border-bottom: 1px solid #376392; /* Add a 1px solid line below the text */
   padding-bottom: 2px;
 }
 
@@ -1223,8 +1223,12 @@ body {
   border-radius: 25px;
 }
 .vision-missionbg {
-  background-color: #d9e5e1;
-  padding: 2rem;
+  /* background-color: #d9e5e1; */
+  /* padding: 2rem; */
+  font-size: 1.3rem;
+}
+.text-success {
+  color: #2f6db0 !important;
 }
 
 .slider-part {

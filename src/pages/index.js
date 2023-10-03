@@ -456,7 +456,7 @@ const Home = () => {
 
 
 
-      {/* <section className="mx-auto p-5 container bg-dark text-white row mt-5 pt-5 pb-5 downward">
+      <section className="mx-auto p-5 container vision-missionbg  bg-dark text-white row mt-5 pt-5 pb-5 downward">
         <div className="col-md-6 p-2">
           <div className="card-body">
             <div className="row">
@@ -465,8 +465,8 @@ const Home = () => {
                   className="img"
                   src={vision}
                   alt="Image 1"
-                  width={100}
-                  height={100}
+                  width={150}
+                  height={150}
                 />
               </div>
               <div className="col-9">
@@ -486,8 +486,8 @@ const Home = () => {
                   className="img"
                   src={mission}
                   alt="Image 1"
-                  width={100}
-                  height={100}
+                  width={150}
+                  height={150}
                 />
               </div>
               <div className="col-9">
@@ -499,7 +499,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </section> */}
+      </section>
 
 
       {/* vision and misssion  */}
@@ -695,7 +695,7 @@ const Home = () => {
         </Slider>
       </section> */}
 
-      <section>
+      <section className="ms-5">
 
         <Slider {...settings}>
           {cards.map((item, index) => (
@@ -1066,11 +1066,11 @@ const Home = () => {
           <div class="accordion-item item-3">
             <h2 class="accordion-header" id="flush-headingThree">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                <BsFillPatchQuestionFill className="text-success me-3" /> Complaint FAQs
+                <BsFillPatchQuestionFill className="text-success me-3" /> How Can We Help You
               </button>
             </h2>
             <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-              <div class="accordion-body">
+              {/* <div class="accordion-body">
                 <div className="mt-4">
                   <p className="values-system-para"> <b> What can I complain to the Provincial Ombudsman (Mohtasib) Sindh about? </b> </p>
                   <p className="values-system-para"> We can receive and handle complaints against any case of maladministration in any Government of Sindh agency. If you are not sure if your complaint is one we can help with, just ask us. </p>
@@ -1175,6 +1175,34 @@ const Home = () => {
                     <li className="values-system-para">failed to explain things properly or caused unreasonable delays.</li>
                   </div>
                 </div>
+              </div> */}
+              <div className="accordion-body">
+                <h2 className="values-system-heading d-flex">How can we help you <BsFillPatchQuestionFill className="text-success ms-3" /></h2>
+                <p className="values-system-para mt-2 pe-3">
+                  We are an independent statuary body that promotes good governance
+                  and protect human rights;
+                </p>
+                <p className="values-system-para mt-2 pe-3">
+                  We aim to redress public grievances as fairly and as quickly as we can, after examining all facts. If we think the Agency you are complaining about has treated you fairly, we will tell you.
+                </p>
+                <p className="values-system-para mt-2 pe-3">
+                  If we determine that the Agency has acted wrongly, we will recommend the Agency to put things right for you. This can include recommending that the Agency provide you relief sought and to treat you fairly and in accordance with law.
+                </p>
+                <p className="values-system-para mt-2 pe-3">
+                  To deliver free of cost and speedy justice by performing the role of bridge between the public and Government Departments/agencies.
+                </p>
+                <p className="values-system-para mt-2 pe-3">
+                  Ombudsman Sindh accords high priority to hardship cases relating to
+                  marginalized section of society specially widows, children,
+                  pensioners, differently abled persons and those below the poverty
+                  line;
+                </p>
+                <p className="values-system-para mt-2 pe-3">
+                  Informal resolution of disputes;
+                </p>
+                <p className="values-system-para mt-2 pe-3">
+                  Own Motion (Suo-Moto Power) is the unique feature of this institute.
+                </p>
               </div>
             </div>
           </div>

@@ -11,14 +11,14 @@ const ChildrenComplaint = () => {
                     <div className="col-md-12">
                         <h2 className="values-system-heading d-flex">Children’s Complaints Office of the Provincial Ombudsman Sindh <FaChild className="text-success ms-3" /></h2>
                         <p className="values-system-para mt-2">
-                            The Children’s Complaints Office (CCO) has been established at the Secretariat of the Provincial Ombudsman Sindh (POS) by way of a partnership between the POS and UNICEF.
+                            The Children’s Complaints Office (CCO) has been established to bridge an existing gap in terms of a Children-specific grievance redressal mechanism in the administrative justice sector in Sindh
                         </p>
                         <p className="values-system-para mt-2">
-                            Thus the CCO initiative bridges an existing gap in terms of a Children-specific grievance redress mechanism in the administrative justice sector in Sindh
+                            Initially the CCO was collaborated by UNICEF but from one last decade it is being successfully run by POS
 
                         </p>
                         <p className="values-system-para mt-2">
-                            The main objectives of the POS-UNICEF partnership for setting up the CCO are:
+                            The main objectives for setting up the CCO are:
                         </p>
                         <li className="values-system-para mt-2">
                             To establish a dedicated redress and response system for complaints related to and by Children, against maladministration by any provincial Agency, institution or public body;
@@ -34,13 +34,11 @@ const ChildrenComplaint = () => {
                 </div>
             </div>
 
-            <div className="our-value-system mt-5">
+            {/* <div className="our-value-system mt-5">
                 <div className="row">
                     <div className="col-md-12  ">
                         <h2 className="values-system-heading d-flex">Process and Procedure: <MdOutlineMiscellaneousServices className="text-success ms-3" /></h2>
-                        {/* <li className="values-system-para mt-2 pe-3">
-                            To gel with the existing grievance redress process of the POS, the CCO will operate within the ambit of existing procedures.
-                        </li> */}
+
                         <li className="values-system-para mt-2 pe-3">
                             Complaints may be made both by Children and by adults on behalf of Children regarding unfair treatment by public bodies such as:
                         </li>
@@ -97,7 +95,7 @@ const ChildrenComplaint = () => {
 
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 
             {/* <div className="our-value-system mt-5">

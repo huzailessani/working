@@ -31,13 +31,14 @@ const Navbar = () => {
                                     {/* <li><Link class="dropdown-item" href="/About/WhoWeAre">Who We Are</Link></li> */}
                                     <li><Link class="dropdown-item" href="/About/OurCharter">Our Charter</Link></li>
                                     <li><Link class="dropdown-item" href="/About/TheSecratariat">The Secretariat</Link></li>
-                                    <li><Link class="dropdown-item" href="/About/RegionalOffices">Regional offices</Link></li>
+                                    <li><Link class="dropdown-item" href="/About/OurCommitment">Our Commitment</Link></li>
                                     <li><Link class="dropdown-item" href="/About/Headquarter">Headquarter</Link></li>
+                                    <li><Link class="dropdown-item" href="/About/RegionalOffices">Regional offices</Link></li>
                                     <li><Link class="dropdown-item" href="/About/Organization">Organization</Link></li>
                                     {/* <li><Link class="dropdown-item" href="/About/Profiles">Profiles</Link></li> */}
                                 </ul>
                             </li>
-                            <li class="nav-item dropdown">
+                            {/* <li class="nav-item dropdown">
                                 <Link class="nav-link dropdown-toggle text-white me-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Our Services
                                 </Link>
@@ -46,7 +47,7 @@ const Navbar = () => {
                                     <li><Link class="dropdown-item" href="/OurServices/WhatWeDontDo">What We Dont Do</Link></li>
                                     <li><Link class="dropdown-item" href="/OurServices/HowCanWeHelpYou">How Can We Help You</Link></li>
                                 </ul>
-                            </li>
+                            </li> */}
                             {/* <li class="nav-item dropdown">
                                 <Link class="nav-link dropdown-toggle text-white me-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     Children Complaints Office
@@ -71,7 +72,7 @@ const Navbar = () => {
                                 </Link>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/MakingAComplaint">How To Lodge A Complaint</Link></li>
-                                    <li><Link class="dropdown-item" href="//MakeAComplaint/ComplaintFAQs">Complaint FAQs</Link></li>
+                                    {/* <li><Link class="dropdown-item" href="//MakeAComplaint/ComplaintFAQs">Complaint FAQs</Link></li> */}
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/DownloadForm">Download Form</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/MakeAComplaintOnline">Online Complaint Registration</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/ComplainAboutUs">Complain About Us</Link></li>
@@ -88,6 +89,7 @@ const Navbar = () => {
                                     <li><Link class="dropdown-item" href="/Media/Seminar">Seminar</Link></li>
                                     <li><Link class="dropdown-item" href="/Media/PressClippings">Press Coverage</Link></li>
                                     <li><Link class="dropdown-item" href="/Media/Brochures">Brochures</Link></li>
+                                    <li><Link class="dropdown-item" href="/Media/PhotoGallery">Photo Gallery</Link></li>
                                 </ul>
                             </li>
                             {/* <li class="nav-item dropdown">
@@ -102,6 +104,16 @@ const Navbar = () => {
 
                                 </ul>
                             </li> */}
+                            <li class="nav-item ">
+                                <Link class="nav-link  text-white me-3" href="/Affiliations" id="" role="button" >
+                                    Affiliations
+                                </Link>
+                            </li>
+                            <li class="nav-item ">
+                                <Link class="nav-link  text-white me-3" href="/Tenders" id="" role="button" >
+                                    Procurement
+                                </Link>
+                            </li>
                             <li class="nav-item ">
                                 <Link class="nav-link  text-white me-3" href="/contact" id="" role="button" >
                                     Contact Us
