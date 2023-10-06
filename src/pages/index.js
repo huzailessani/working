@@ -34,9 +34,10 @@ import banner11 from "../../public/banner-11.jpg"
 import banner12 from "../../public/banner-12.jpg"
 import banner13 from "../../public/banner-13.jpg"
 import banner14 from "../../public/banner-14.jpg"
-import banner15 from "../../public/banner-15.jpg"
+// import banner15 from "../../public/banner-15.jpg"
 import banner16 from "../../public/banner-16.jpg"
 import banner17 from "../../public/banner-17.jpg"
+import banner18 from "../../public/banner-18.jpg"
 import ombudsmanimg from "../../public/ombudsman-sindh.jpeg"
 import ombud from "../../public/ombud.png"
 import ombuds from "../../public/ombuds.png"
@@ -416,7 +417,7 @@ const Home = () => {
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
-                src={banner15}
+                src={banner18}
                 alt="slider1img"
 
               />
