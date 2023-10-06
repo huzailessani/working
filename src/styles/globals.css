@@ -561,21 +561,21 @@ body {
 .event-container .event-thumbnail4 {
   width: auto;
   height: 260px;
-  background: url("/w-1.PNG") no-repeat center;
+  background: url("/pic-1.PNG") no-repeat center;
   background-size: cover;
   border-radius: 3px;
 }
 .event-container .event-thumbnail5 {
   width: auto;
   height: 260px;
-  background: url("/w-2.PNG") no-repeat center;
+  background: url("/pic-2.PNG") no-repeat center;
   background-size: cover;
   border-radius: 3px;
 }
 .event-container .event-thumbnail6 {
   width: auto;
   height: 260px;
-  background: url("/w-3.PNG") no-repeat center;
+  background: url("/pic-3.PNG") no-repeat center;
   background-size: cover;
   border-radius: 3px;
 }
@@ -615,7 +615,7 @@ body {
 .event-container .event-info .event-description {
   font-family: "Merriweather", sans-serif;
   line-height: 2;
-  font-size: 0.95rem;
+  font-size: 1.2rem;
   color: rgba(21, 37, 54, 0.7);
   opacity: 0;
   transition: 0.5s 0.25s cubic-bezier(0.17, 0.67, 0.5, 1.03);
@@ -735,7 +735,7 @@ body {
 } */
 
 .ombudsman-message-text {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
 }
 
 /* registration */
@@ -745,7 +745,7 @@ body {
 .registration-wrap .registration-content {
 }
 .registration-content h2 {
-  font-size: 40px;
+  font-size: 36px;
   line-height: 56px;
   font-weight: 700;
   color: #212121;
@@ -840,7 +840,7 @@ body {
   flex-basis: 25%;
   margin: 10px 0px;
   position: relative;
-
+  width: 400px;
   height: 500px;
 
   color: #fff;
@@ -862,7 +862,7 @@ body {
   bottom: 0;
   position: absolute;
   left: 0;
-  background: #00000050;
+  /* background: #00000050; */
   padding: 30px;
 }
 
@@ -894,7 +894,7 @@ body {
 }
 
 .card-body-content .text {
-  font-size: 12px;
+  font-size: 17px;
   font-weight: 300;
   letter-spacing: 0.5px;
   margin: 15px 0px;
@@ -965,11 +965,11 @@ body {
 }
 
 .values-system-heading {
-  font-size: 1.4rem;
+  font-size: 1.7rem;
 }
 
 .values-system-para {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 
 .vision {
@@ -1324,7 +1324,7 @@ body {
   right: 10px;
   top: 100%;
   content: "";
-  background-color: rgba(51, 51, 51, 0.9);
+  background-color: rgba(69, 65, 65, 0.9);
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
   -webkit-transition-delay: 0.25s;
@@ -1408,3 +1408,22 @@ body {
   transition-delay: 0.2s;
 }
 /* Demo purposes only */
+
+.counter-text h1 {
+  margin-top: -50px;
+}
+
+.accordion-button {
+  font-size: 1.5rem;
+}
+
+.downing {
+  margin-bottom: -3rem;
+  cursor: pointer;
+}
+.counter-heading {
+  font-size: 20px;
+}
+.vision-missionbg {
+  background-color: #555555 !important;
+}

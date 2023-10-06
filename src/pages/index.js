@@ -26,10 +26,23 @@ import banner3 from "../../public/banner-3.jpg"
 import banner4 from "../../public/banner-4.jpg"
 import banner5 from "../../public/banner-5.jpg"
 import banner6 from "../../public/banner-6.jpg"
-import ombudsmanimg from "../../public/ombudsman-sindh.png"
+import banner7 from "../../public/banner-7.jpg"
+import banner8 from "../../public/banner-8.jpg"
+import banner9 from "../../public/banner-9.jpg"
+import banner10 from "../../public/banner-10.jpg"
+import banner11 from "../../public/banner-11.jpg"
+import banner12 from "../../public/banner-12.jpg"
+import banner13 from "../../public/banner-13.jpg"
+import banner14 from "../../public/banner-14.jpg"
+import banner15 from "../../public/banner-15.jpg"
+import banner16 from "../../public/banner-16.jpg"
+import banner17 from "../../public/banner-17.jpg"
+import ombudsmanimg from "../../public/ombudsman-sindh.jpeg"
+import ombud from "../../public/ombud.png"
+import ombuds from "../../public/ombuds.png"
 import supreme from "../../public/supreme.png"
 import rightimg from "../../public/right-image.jpg"
-import bottom1 from "../../public/bottom-pic-1.png"
+import bottom1 from "../../public/bottom-pic-1.jpg"
 import bottom2 from "../../public/bottom-pic-2.png"
 import bottom3 from "../../public/bottom-pic-3.png"
 import sliderImg from "../../public/bottom-pic-3.png"
@@ -110,7 +123,7 @@ const Home = () => {
 
   const cards = [
     {
-      "image": "w-1.PNG",
+      "image": "w-1.jpeg",
       "title": "NUMBER PLATES",
       "subtitle": "Provincial Ombudsman Sindh directs clearance of backlog and issuance of 300,000 number plates due to owner requests",
       "new": "Whats New"
@@ -253,7 +266,7 @@ const Home = () => {
               />
               <div class="carousel-caption  d-none d-md-block">
                 <h5>KARACHI WEST</h5>
-                <p>Neti Jeti Bridge</p>
+                <p>Native Jeti Bridge</p>
               </div>
             </div>
             <div class="carousel-item ">
@@ -291,11 +304,153 @@ const Home = () => {
 
               />
               <div class="carousel-caption  d-none d-md-block">
-                <h5>MITHI</h5>
+                <h5>THARPARKAR</h5>
                 <p>Naukot Fort</p>
               </div>
             </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner7}
+                alt="slider1img"
 
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>DADU</h5>
+                <p>Gorakh Hill</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner8}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>KHAIRPUR</h5>
+                <p>Faiz Mahal</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner9}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>NAUSHARO FEROZE</h5>
+                <p>Grand Mosque Allahabad</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner10}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>THATTA</h5>
+                <p>Makli Necropolis</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner11}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>HYDERABAD</h5>
+                <p>Pakka Qila</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner12}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>KORANGI</h5>
+                <p>Airmen Golf Club</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner13}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>BENAZIRABAD</h5>
+                <p>Dalel Dero Fort</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner14}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>BADIN</h5>
+                <p>Agham Kot</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner15}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>JACOBABAD</h5>
+                <p>Police Building</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner16}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>MIRPURKHAS</h5>
+                <p>Chittori</p>
+              </div>
+            </div>
+            <div class="carousel-item ">
+              {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
+              <Image
+                className="dashboard-slider-image"
+                src={banner17}
+                alt="slider1img"
+
+              />
+              <div class="carousel-caption  d-none d-md-block">
+                <h5>LARKANA</h5>
+                <p>Mohenjo Daro</p>
+              </div>
+            </div>
             {/* <div class="carousel-item">
 
               <Image
@@ -373,11 +528,11 @@ const Home = () => {
           <div className="col-lg-3  col-sm-5 col-12 d-flex flex-column align-items-center border-end">
 
             <Image
-              className=""
+              className="mb-3"
               src={s}
               alt="slider1img"
-              width={100}
-              height={100}
+              width={125}
+              height={125}
             />
             <div className="card-text">
               <Link href="/OurServiceCharter">OUR COMMITMENT</Link>
@@ -386,11 +541,11 @@ const Home = () => {
           <div className="col-lg-3   col-sm-5 col-12 d-flex flex-column align-items-center border-end">
 
             <Image
-              className=""
+              className="mb-3"
               src={p}
               alt="slider1img"
-              width={105}
-              height={105}
+              width={90}
+              height={90}
             />
             <div className="card-text">
               <Link href="/MakeAComplaint/MakeAComplaintOnline">MAKE A COMPLAINT</Link>
@@ -399,11 +554,11 @@ const Home = () => {
           <div className="col-lg-3   col-sm-5 col-12 d-flex flex-column align-items-center border-end">
 
             <Image
-              className=""
+              className="mb-3"
               src={q}
               alt="slider1img"
-              width={100}
-              height={100}
+              width={90}
+              height={90}
             />
             <div className="card-text">
               <Link href="/MakeAComplaint/MakingAComplaint">HOW TO COMPLAINT</Link>
@@ -412,11 +567,11 @@ const Home = () => {
           <div className="col-lg-3   col-sm-5 col-12 d-flex flex-column align-items-center border-end  ">
 
             <Image
-              className=""
+              className="mb-3"
               src={r}
               alt="slider1img"
-              width={105}
-              height={105}
+              width={90}
+              height={90}
             />
             <div className="card-text">
               <Link href="/MakeAComplaint/ComplaintFAQs">COMPLAINT FAQS</Link>
@@ -429,20 +584,20 @@ const Home = () => {
 
       < section className="container mt-5 our-value-system p-3" >
         <div className="row m-2 justify-content-center align-items-center ">
-          <div className="col-lg-3 text-center mb-4">
+          <div className="col-lg-4 text-center mb-4">
             <Image
               className="img-fluid  mx-auto  mt-3 "
-              src={ombudsmanimg}
+              src={ombuds}
               alt="ombudsmanimg"
-              width={250}
-              height={250}
+              width={400}
+              height={750}
             />
             {/* <b>  <p className="ombudsman-message-text"> Mr Ajaz Ali Khan</p></b>
             <b> <p className="ombudsman-message-text"> P.A.S</p></b>
             <b> <p className="ombudsman-message-text mb-2">Ombudsman Sindh</p></b> */}
           </div>
-          <div className="col-md-9">
-            <strong>  <h2 className="values-system-heading d-flex">Message From Ombudsman Sindh</h2> </strong>
+          <div className="col-md-8">
+            <strong>  <h2 className="values-system-heading d-flex">MESSAGE FROM OMBUDSMAN SINDH</h2> </strong>
             <p className="ombudsman-message-text mt-2 " align="justify">
               I am delighted to extend a warm welcome to you on the website of the office of the ombudsman Sindh. This platform has been created with the aim of offering direct accessibility to everyone, especially to citizens who may have concerns regarding the actions of any government official in Sindh. Our commitment is to address public complaints with effectiveness, efficiency, and transparency. Our aim is to improve public administration through independent objective and impartial investigation and would treasure your valuable input to keep improving our quality of service.
             </p>
@@ -465,12 +620,11 @@ const Home = () => {
                   className="img"
                   src={vision}
                   alt="Image 1"
-                  width={150}
-                  height={150}
+
                 />
               </div>
               <div className="col-9">
-                <strong>  <h2 className="card-title mb-2">Our Vision</h2></strong>
+                <strong>  <h2 className="card-title mb-2">OUR VISION</h2></strong>
                 <p className="" align="justify">
                   To promote high standards of governance, accountability, and efficiency through administrative justice services.
                 </p>
@@ -491,7 +645,7 @@ const Home = () => {
                 />
               </div>
               <div className="col-9">
-                <strong>  <h2 className="card-title mb-2">Our mission</h2></strong>
+                <strong>  <h2 className="card-title mb-2">OUR MISSION</h2></strong>
                 <p className="" align="justify">
                   To effectively and comprehensively address public grievances in a fair, prompt, transparent, equitable, and efficient manner.
                 </p>
@@ -569,12 +723,12 @@ const Home = () => {
 
 
       {/* {Order Justice mandate} */}
-      <section className="registration-wrap">
-        <div className="container-fluid p-5">
+      <section className=" registration-wrap">
+        <div className="container p-5">
           <div className="row align-items-center ">
             <div className="col-md-4">
               <div className="registration-content">
-                <h2>What Is Our Mandate?</h2>
+                <h2>WHAT IS OUR MANDATE?</h2>
                 <div className="borders"></div>
                 <p align="justify">
                   The Ombudsman Sindh has the mandate to protect the rights of the people, ensuring adherence to the rule of law, diagnosing, redressing and rectifying any injustice done to a person through maladministration and administrative injustice.
@@ -589,15 +743,15 @@ const Home = () => {
                 <div className="left-image">
                   {/* <img src="/supreme.png" alt="" /> */}
                   <Image
-                    className=""
+                    className="ms-4"
                     src={supreme}
                     alt="mandate-image"
-                    width={400}
-                    height={400}
+                    width={500}
+                    height={600}
                   />
                 </div>
-                <div className="right-image">
-                  {/* <img src="/right-image.jpg" alt="" /> */}
+                {/* <div className="right-image">
+                  
                   <Image
                     className=""
                     src={rightimg}
@@ -605,7 +759,7 @@ const Home = () => {
                     width={350}
                     height={350}
                   />
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -695,7 +849,7 @@ const Home = () => {
         </Slider>
       </section> */}
 
-      <section className="ms-5">
+      <section className="ms-5 mb-5">
 
         <Slider {...settings}>
           {cards.map((item, index) => (
@@ -773,29 +927,37 @@ const Home = () => {
       {/* Counter */}
       <section className="container">
         <div className="row justify-content-center align-items-center text-center ">
-          <div className="col-4 d-flex justify-content-center">
-            <Image
+          <div className="col-6 d-flex justify-content-center">
+            {/* <Image
               id="image2"
               className="down"
               src={counterNote2}
               alt="Counter-img"
-              width={270}
-              height={270}
+              width={200}
+              height={200}
               onClick={() => showData(2)}
-            />
+            /> */}
+            <div className="vision-missionbg our-value-system downing bg-dark text-white" onClick={() => showData(2)}>
+              <h1 className="counter-heading">COMPLAINTS RECEIVED</h1>
+            </div>
+
           </div>
-          <div className="col-4 d-flex justify-content-center"> {/* Added d-flex and justify-content-center */}
-            <Image
+          <div className="col-6 d-flex justify-content-center">
+            {/* <Image
               id="image1"
               className="down"
               src={counterNote}
               alt="Counter-img"
-              width={270}
-              height={270}
+              width={200}
+              height={200}
               onClick={() => showData(1)}
-            />
+            /> */}
+            <div className="vision-missionbg our-value-system downing bg-dark text-white" onClick={() => showData(1)}>
+              <h1 className="counter-heading">DISPOSAL OF COMPLAINTS</h1>
+            </div>
+
           </div>
-          <div className="col-4 d-flex justify-content-center"> {/* Added d-flex and justify-content-center */}
+          {/* <div className="col-4 d-flex justify-content-center">
             <Image
               id="image3"
               className="down"
@@ -805,42 +967,45 @@ const Home = () => {
               height={270}
               onClick={() => showData(3)}
             />
-          </div>
+          </div> */}
         </div>
 
         <div className="col-md-12 container  our-value-system p-5">
           <div id="data1" className="col-md-12 container p-3" style={{ display: activeData === 1 ? 'block' : 'none' }}>
             <div className="row justify-content-center">
-              <h1 className="text-center big-text mb-4 mt-4">Complaints Completed</h1>
-              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
+              {/* <div className="mb-5 counter-text">
+                <h1 className="text-center big-text mb-4 ">DISPOSAL OF COMPLAINTS</h1></div> */}
+              <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <BsFileEarmarkCheck className="counter-icon mt-3" />
                   <div className="big-text">
                     <Counter number={455} />
                   </div>
-                  <div>Closed After Assessment</div>
+                  <div className="values-system-para">Disposed of after preliminary scrutiny
+                  </div>
                 </div>
               </div>
 
-              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
+              <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <FaGlobeAmericas className="counter-icon mt-3" />
                   <div className="big-text">
                     <Counter number={178} />
                   </div>
-                  <div>Concluded By Inquiry</div>
+                  <div className="values-system-para">Referred to department for necessary action (u/s 33)
+                  </div>
                 </div>
               </div>
-              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
+              <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <GiNotebook className="counter-icon mt-3" />
                   <div className="big-text">
                     <Counter number={474} />
                   </div>
-                  <div>Concluded By Full Investigation</div>
+                  <div className="values-system-para">Decided after detailed investigation</div>
                 </div>
               </div>
-              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
+              {/* <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <FaHandshake className="counter-icon mt-3" />
                   <div className="big-text">
@@ -848,42 +1013,42 @@ const Home = () => {
                   </div>
                   <div>Resolved By Mediation</div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
 
           <div id="data2" className="col-md-12 container p-3" style={{ display: activeData === 2 ? 'block' : 'none' }}>
             <div className="row justify-content-center">
-              <h1 className="text-center big-text mb-4 mt-4">Complaints Received</h1>
-              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
+              {/* <div className="mb-5 counter-text"> <h1 className="text-center big-text mb-5 ">COMPLAINTS RECEIVED</h1></div> */}
+              <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <BsFillPhoneVibrateFill className="counter-icon mt-3" />
                   <div className="big-text">
                     <Counter number={1654} />
                   </div>
-                  <div>By Electronic Means / Online</div>
+                  <div className="values-system-para">By Electronic Means / Online</div>
                 </div>
               </div>
 
-              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
+              <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <BsFillSignpostFill className="counter-icon mt-3" />
                   <div className="big-text">
                     <Counter number={110} />
                   </div>
-                  <div> By Post</div>
+                  <div className="values-system-para"> By Post</div>
                 </div>
               </div>
-              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
+              <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <BsFillPeopleFill className="counter-icon mt-3" />
                   <div className="big-text">
                     <Counter number={84} />
                   </div>
-                  <div>In Person</div>
+                  <div className="values-system-para">In Person</div>
                 </div>
               </div>
-              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
+              {/* <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <BsFillTelephoneFill className="counter-icon mt-3" />
                   <div className="big-text ">
@@ -891,7 +1056,7 @@ const Home = () => {
                   </div>
                   <div>By Phone</div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
 
@@ -1030,11 +1195,11 @@ const Home = () => {
           <div class="accordion-item item-1">
             <h2 class="accordion-header" id="flush-headingOne">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                <MdWork className="text-success me-3" /> What we Do
+                <MdWork className="text-success me-3 values-system-heading" /> What we Do
               </button>
             </h2>
             <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-              <div class="accordion-body">We resolve complaints and provide relief to the public by carrying out independent investigations into complaints about maladministration in any Government of Sindh agency. We work to put things right and share lessons learned and help improve public services as a result. Our independent complaints handling service is free and open to everyone.</div>
+              <div className="accordion-body values-system-para">We resolve complaints and provide relief to the public by carrying out independent investigations into complaints about maladministration in any Government of Sindh agency. We work to put things right and share lessons learned and help improve public services as a result. Our independent complaints handling service is free and open to everyone.</div>
             </div>
           </div>
           <div class="accordion-item item-2">
@@ -1177,7 +1342,7 @@ const Home = () => {
                 </div>
               </div> */}
               <div className="accordion-body">
-                <h2 className="values-system-heading d-flex">How can we help you <BsFillPatchQuestionFill className="text-success ms-3" /></h2>
+
                 <p className="values-system-para mt-2 pe-3">
                   We are an independent statuary body that promotes good governance
                   and protect human rights;
@@ -1213,7 +1378,7 @@ const Home = () => {
         <div className="row us-card">
           <div className="col-md-4 p-2">
             <article className="event-container">
-              <div class="event-thumbnail1"></div>
+              <div class="event-thumbnail4"></div>
 
               <div class="event-info">
                 <h2 class="event-title">Success Story</h2>
@@ -1230,7 +1395,7 @@ const Home = () => {
           </div>
           <div className="col-md-4 p-2">
             <article className="event-container">
-              <div class="event-thumbnail2"></div>
+              <div class="event-thumbnail5"></div>
               <div class="event-info">
                 <h2 class="event-title">Success Story</h2>
 
@@ -1248,7 +1413,7 @@ const Home = () => {
           </div>
           <div className="col-md-4 p-2">
             <article className="event-container">
-              <div class="event-thumbnail3"></div>
+              <div class="event-thumbnail6"></div>
               <div class="event-info">
                 <h2 class="event-title">Success Story</h2>
                 <h3 class="event-spots">Widow Complainant</h3>
@@ -1298,8 +1463,8 @@ const Home = () => {
                   className="card-image"
                   src={bottom2}
                   alt="our charter"
-                  width={200}
-                  height={200}
+                  width={500}
+                  height={500}
                 />
                 <div className="card-body-content">
                   <div className="borders"></div>
