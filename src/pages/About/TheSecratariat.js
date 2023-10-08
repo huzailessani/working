@@ -1,6 +1,8 @@
 import BaseLayout from "@/components/BaseLayout";
 import { AiTwotoneSecurityScan } from "react-icons/ai";
 import { GiPostOffice } from "react-icons/gi";
+import { HiOfficeBuilding } from "react-icons/hi";
+
 import Link from "next/link"
 
 const TheSecretariat = () => {
@@ -9,13 +11,16 @@ const TheSecretariat = () => {
             <div className="our-value-system mt-5">
                 <div className="row">
                     <div className="col-md-12  ">
-                        <h2 className="values-system-heading d-flex">The Secretariat <AiTwotoneSecurityScan className="text-success ms-3" /></h2>
+                        <h2 className="values-system-heading d-flex">The Secretariat <AiTwotoneSecurityScan className=" ms-3" /></h2>
                         <p className="values-system-para mt-2">
-                            The Headquarter of Secretariat Provincial Ombudsman (Mohtasib) Sindh is located at Karachi and 19 Regional offices at district level throughout Sindh Province
+                            The Headquarter of Secretariat Provincial Ombudsman (Mohtasib) Sindh is located at Karachi.
                         </p>
+                        {/* <p className="values-system-para mt-2">
+                            19 Regional offices at district level throughout Sindh Province
+                        </p> */}
                     </div>
                 </div>
-                <div className="mt-3">
+                {/* <div className="mt-3">
                     <Link className="learn-more mt-2 underline text-success" href="/Headquarter">
                         Click here for names and contacts of officers in the Provincial Ombudsman Secretariat/Headquarter
                     </Link>
@@ -24,16 +29,16 @@ const TheSecretariat = () => {
                     <Link className="learn-more mt-3 underline text-success" href="/Regionaloffices">
                         Click here for names and contacts of officers in the Provincial Ombudsman Regional Offices
                     </Link>
-                </div>
+                </div> */}
             </div>
-
-            {/* <div className="our-value-system mt-5">
+            <div className="our-value-system mt-5">
                 <div className="row">
                     <div className="col-md-12  ">
 
                         <div className="row">
                             <div className=" ">
-                                <h2 className="values-system-heading d-flex">HEADQUARTER  <GiPostOffice className="text-success ms-3" /></h2>
+
+                                <h2 className="values-system-heading d-flex">HEADQUARTER  <GiPostOffice className=" ms-3" /></h2>
                                 <p className="values-system-para mt-2">
                                     Secretariat Provincial Ombudsman , Sindh
                                 </p>
@@ -43,22 +48,46 @@ const TheSecretariat = () => {
                                 <p className="values-system-para mt-2">
                                     Contact : 021-99211025
                                 </p>
-                                <p className="values-system-para mt-2">
-                                    Website : www.mohtasibsindh.gov.pk
+                                <p className="values-system-para  mt-3">
+                                    <a className="underline text-success"
+                                        href="https://www.mohtasibsindh.gov.pk/"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        Website :   http://www.mohtasibsindh.gov.pk</a>
                                 </p>
-                                <p className="values-system-para mt-2">
-                                    Email : www.mohtasibhd@yahoo.com
+                                <p className="values-system-para mt-2  text-success">
+                                    Email: <a href="mailto:mohtasibhd@yahoo.com" className="underline">mohtasibhd@yahoo.com</a>
                                 </p>
+                                <div className="mt-3">
+                                    <Link className="learn-more mt-2 underline text-success values-system-para" href="/Headquarter">
+                                        Click here for names and contacts of officers in the Provincial Ombudsman Secretariat/Headquarter
+                                    </Link>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
+            </div>
+
+            <div className="our-value-system mt-5">
+                <div className="row">
+                    <div className="col-md-12  ">
+                        <h2 className="values-system-heading d-flex">Regional Offices <HiOfficeBuilding className="ms-3 " /></h2>
+                        <div className="row">
+                            <p className="values-system-para mt-2">
+                                To facilitate the citizens, Provincial Ombudsman Sindh (Mohtasib) has set up 19 regional offices
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
                 <div className="mt-3">
-                    <Link className="learn-more mt-2 underline" href="/Headquarter">
-                        Click here for names and contacts of officers in the Provincial Ombudsman Secretariat/Headquarter
+                    <Link className="learn-more mt-3 underline text-success values-system-para" href="/About/RegionalOffices">
+                        Click here for names and contacts of officers in the Provincial Ombudsman Regional Offices
                     </Link>
                 </div>
-            </div> */}
+            </div>
         </div>
 
 

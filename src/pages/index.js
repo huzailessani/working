@@ -267,7 +267,7 @@ const Home = () => {
               />
               <div class="carousel-caption  d-none d-md-block">
                 <h5>KARACHI WEST</h5>
-                <p>Native Jeti Bridge</p>
+                <p>Native Jetty Bridge</p>
               </div>
             </div>
             <div class="carousel-item ">
@@ -1196,7 +1196,7 @@ const Home = () => {
           <div class="accordion-item item-1">
             <h2 class="accordion-header" id="flush-headingOne">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                <MdWork className="text-success me-3 values-system-heading" /> What we Do
+                <MdWork className=" me-3 values-system-heading" /> What we Do
               </button>
             </h2>
             <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
@@ -1206,7 +1206,7 @@ const Home = () => {
           <div class="accordion-item item-2">
             <h2 class="accordion-header" id="flush-headingTwo">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                <MdWorkOff className="text-success me-3" />  What We Dont Do
+                <MdWorkOff className=" me-3" />  What We Dont Do
               </button>
             </h2>
             <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
@@ -1232,7 +1232,7 @@ const Home = () => {
           <div class="accordion-item item-3">
             <h2 class="accordion-header" id="flush-headingThree">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                <BsFillPatchQuestionFill className="text-success me-3" /> How Can We Help You
+                <BsFillPatchQuestionFill className=" me-3" /> How Can We Help You
               </button>
             </h2>
             <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">

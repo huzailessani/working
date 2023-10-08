@@ -19,7 +19,7 @@ const DownloadForm = () => {
                         <div className="col-md-12 ">
                             <ul className="values-list">
                                 <li className="values-system-para mt-3">
-                                    <a className="underline text-success"
+                                    <a className="underline "
                                         href="/Form A (English Version).docx"
                                         download  // Add the download attribute
                                     >

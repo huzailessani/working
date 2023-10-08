@@ -43,7 +43,7 @@ const HeadQuarter = () => {
                         <tr>
                             <td class="col-xs-6">MR. AJAZ ALI KHAN
                                 PAS</td>
-                            <td class="col-xs-3">HON BLE OMBUDSMAN	</td>
+                            <td class="col-xs-3">HON’BLE OMBUDSMAN	</td>
                             <td class="col-xs-3">99211026</td>
                         </tr>
                         <tr>
@@ -113,7 +113,7 @@ const HeadQuarter = () => {
                         <tr>
                             <td class="col-xs-6">MR. FASIHUDDIN KHAN</td>
                             <td class="col-xs-3">ADVISOR-Z		</td>
-                            <td class="col-xs-3"></td>
+                            <td class="col-xs-3">-</td>
                         </tr>
                         <tr>
                             <td class="col-xs-6">MR. SHAHID AHMED HASHMI
@@ -175,7 +175,7 @@ const HeadQuarter = () => {
                         <tr>
                             <td class="col-xs-6">MS. TAYYABA AASIM	</td>
                             <td class="col-xs-3">SUPERINTENDENT</td>
-                            <td class="col-xs-3">99211713	</td>
+                            <td class="col-xs-3">99211026	</td>
                         </tr>
 
                         <tr>
@@ -192,143 +192,143 @@ const HeadQuarter = () => {
 
                         <tr>
                             <td class="col-xs-6">LIBRARY	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">CTC SECTION</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">99211022</td>
                         </tr>
                         <tr>
                             <td class="col-xs-6">COMPLAINT SECTION</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">99211086</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">ADMINISTRATION SECTION</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STORE SECTION</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">COMPUTER SECTION</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">PHOTOSTAT SECTION</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">RECORD ROOM</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-	</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">R & I SECTION</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF MOHTASIB</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF SECRETARY</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF DG-I</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
                         <tr>
                             <td class="col-xs-6">STAFF OF DG-II</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF CONSULTANT (LEGAL)	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF CONSULTANT-F	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF ADVISOR-J	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF ADVISOR-K	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF ADVISOR-B	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF ADVISOR-H
                             </td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF ADVISOR-N	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF ADVISOR-Z	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
                         <tr>
                             <td class="col-xs-6">STAFF OF REGISTRAR</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
                         <tr>
                             <td class="col-xs-6">RECEPTION	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
                         <tr>
                             <td class="col-xs-6">DRIVER ROOM	</td>
-                            <td class="col-xs-3">	</td>
-                            <td class="col-xs-3">021-99245216</td>
+                            <td class="col-xs-3">	-</td>
+                            <td class="col-xs-3">-</td>
                         </tr>
 
 

@@ -9,7 +9,7 @@ const Links = () => {
             <div className="our-value-system mt-5">
                 <div className="row">
                     <div className="col-md-12 ms-md-5 pe-5">
-                        <h2 className="values-system-heading mb-2 d-flex">Ombudsmen Of Pakistan Links <BsLink45Deg className="text-success ms-3" /></h2>
+                        <h2 className="values-system-heading mb-2 d-flex">Ombudsmen Of Pakistan Links <BsLink45Deg className=" ms-3" /></h2>
                         <ul className="values-list">
                             <li className="values-system-para mt-3">
                                 <a className="underline text-success"

@@ -11,7 +11,7 @@ const TheSecretariat = () => {
 
                         <div className="row">
                             <div className=" ">
-                                <h2 className="values-system-heading d-flex">HEADQUARTER  <GiPostOffice className="text-success ms-3" /></h2>
+                                <h2 className="values-system-heading d-flex">HEADQUARTER  <GiPostOffice className=" ms-3" /></h2>
                                 <p className="values-system-para mt-2">
                                     Secretariat Provincial Ombudsman , Sindh
                                 </p>

@@ -9,7 +9,7 @@ const ChildrenComplaint = () => {
             <div className="our-value-system mt-5">
                 <div className="row">
                     <div className="col-md-12">
-                        <h2 className="values-system-heading d-flex">Children’s Complaints Office of the Provincial Ombudsman Sindh <FaChild className="text-success ms-3" /></h2>
+                        <h2 className="values-system-heading d-flex">Children’s Complaints Office of the Provincial Ombudsman Sindh <FaChild className=" ms-3" /></h2>
                         <p className="values-system-para mt-2">
                             The Children’s Complaints Office (CCO) has been established to bridge an existing gap in terms of a Children-specific grievance redressal mechanism in the administrative justice sector in Sindh
                         </p>

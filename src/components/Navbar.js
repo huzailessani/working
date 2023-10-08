@@ -29,11 +29,11 @@ const Navbar = () => {
                                 </Link>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     {/* <li><Link class="dropdown-item" href="/About/WhoWeAre">Who We Are</Link></li> */}
-                                    <li><Link class="dropdown-item" href="/About/OurCharter">Our Charter</Link></li>
-                                    <li><Link class="dropdown-item" href="/About/TheSecratariat">The Secretariat</Link></li>
+                                    <li><Link class="dropdown-item" href="/About/OurCharter">Our Charter / Sindh Ombudsman Act</Link></li>
                                     <li><Link class="dropdown-item" href="/About/OurCommitment">Our Commitment</Link></li>
-                                    <li><Link class="dropdown-item" href="/About/Headquarter">Headquarter</Link></li>
+                                    <li><Link class="dropdown-item" href="/About/TheSecratariat">The Secretariat</Link></li>
                                     <li><Link class="dropdown-item" href="/About/RegionalOffices">Regional offices</Link></li>
+                                    {/* <li><Link class="dropdown-item" href="/About/Headquarter">Headquarter</Link></li> */}
                                     <li><Link class="dropdown-item" href="/About/Organization">Organization</Link></li>
                                     {/* <li><Link class="dropdown-item" href="/About/Profiles">Profiles</Link></li> */}
                                 </ul>
@@ -72,7 +72,7 @@ const Navbar = () => {
                                 </Link>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/MakingAComplaint">How To Lodge A Complaint</Link></li>
-                                    {/* <li><Link class="dropdown-item" href="//MakeAComplaint/ComplaintFAQs">Complaint FAQs</Link></li> */}
+                                    <li><Link class="dropdown-item" href="//MakeAComplaint/ComplaintFAQs">Complaint FAQs</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/DownloadForm">Download Form</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/MakeAComplaintOnline">Online Complaint Registration</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/ComplainAboutUs">Complain About Us</Link></li>

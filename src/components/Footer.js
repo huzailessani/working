@@ -14,7 +14,7 @@ const Footer = () => {
                             <div className="col-lg-7">
                                 <div className="cta_content">
                                     <h3>Have Any Complaint?</h3>
-                                    <p>We work towards resolving complaints and delivering relief to the public by conducting objective investigations into the issues raised.</p>
+                                    <p align="justify">We work towards resolving complaints and delivering relief to the public by conducting objective investigations into the issues raised.</p>
                                 </div>
                             </div>
                             <div className="col-lg-5">
@@ -35,7 +35,7 @@ const Footer = () => {
                                     <div className="widget_title">
                                         <img src="assets/images/logo_1.png" className="img-fluid" alt="" />
                                     </div>
-                                    <p>We address complaints and offer relief to the public by conducting unbiased investigations into grievances concerning maladministration within any government agency in Sindh.</p>
+                                    <p align="justify">We address complaints and offer relief to the public by conducting unbiased investigations into grievances concerning maladministration within any government agency in Sindh.</p>
                                     {/* <ul className="social">
                                         <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i className="fab fa-twitter"></i></a></li>
@@ -49,9 +49,9 @@ const Footer = () => {
                                         <h4>Links</h4>
                                     </div>
                                     <ul>
-                                        <li> <Link href="/contact" className="">Contact Us</Link></li>
-                                        <li> <Link href="/WhatsNew" className="">Whats New</Link></li>
-                                        <li> <Link href="/InternationalOmbudsman" className="">International Ombudsman </Link></li>
+                                        <li> <Link href="/Tenders" className="">Procurement</Link></li>
+                                        <li> <Link href="/ChildrenComplaints" className="">Children Complaint Office</Link></li>
+                                        <li> <Link href="/Affiliations" className="">Affiliations</Link></li>
                                     </ul>
                                 </div>
                             </div>
