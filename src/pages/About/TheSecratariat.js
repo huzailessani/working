@@ -57,7 +57,7 @@ const TheSecretariat = () => {
                                         Website :   http://www.mohtasibsindh.gov.pk</a>
                                 </p>
                                 <p className="values-system-para mt-2  text-success">
-                                    Email: <a href="mailto:mohtasibhd@yahoo.com" className="underline">mohtasibhd@yahoo.com</a>
+                                    <a href="mailto:mohtasibhd@yahoo.com" className="underline">                                    Email : mohtasibhd@yahoo.com</a>
                                 </p>
                                 <div className="mt-3">
                                     <Link className="learn-more mt-2 underline text-success values-system-para" href="/Headquarter">

@@ -11,13 +11,21 @@ const HeadQuarter = () => {
                     <div className="row">
                         <div className="col-md-12  ">
                             <h2 className="values-system-heading d-flex">Official Contacts <FcApproval className="ms-3" /></h2>
-                            <p className="values-system-para mt-2">
 
-                                PABX # : 99211025, 99211028, 99211031 (Ext: 200)
+
+
+                            <p className="values-system-para mt-2">
+                                Secretariat Provincial Ombudsman , Sindh
+                            </p>
+                            <p className="values-system-para mt-2">
+                                Shahrah-e-Kamal Ataturk Ombudsman , Sindh Karachi
+                            </p>
+                            <p className="values-system-para mt-2">
+                                Contact : 021-99211025
                             </p>
                             <p className="values-system-para mt-2">
 
-                                E-Mail :	mohtasibhd@yahoo.com
+                                PABX # : 99211025, 99211028, 99211031 (Ext: 200)
                             </p>
                             <p className="values-system-para  mt-3">
                                 <a className="underline text-success"
@@ -27,6 +35,14 @@ const HeadQuarter = () => {
                                 >
                                     Website :   http://www.mohtasibsindh.gov.pk</a>
                             </p>
+                            <p className="values-system-para mt-2  text-success">
+                                <a href="mailto:mohtasibhd@yahoo.com" className="underline">                                    Email : mohtasibhd@yahoo.com</a>
+                            </p>
+
+
+
+
+
                         </div>
                     </div>
                 </div>
