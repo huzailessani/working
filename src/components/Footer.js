@@ -75,8 +75,9 @@ const Footer = () => {
                                                 <i className="fas fa-envelope"></i>
                                             </div>
                                             <div className="info">
-                                                <p><a href="mailto:info@deneb.com">info@Ombudsman Sindh.com</a></p>
-                                                <p><a href="mailto:services@deneb.com">services@Ombudsman Sindh.com</a></p>
+                                                <p><a href="mailto:mohtasibhd@yahoo.com">info@Ombudsman Sindh.com</a></p>
+                                                {/* <p><a href="mailto:services@deneb.com">services@Ombudsman Sindh.com</a></p> */}
+
                                             </div>
                                         </div>
                                         <div className="single_info">
