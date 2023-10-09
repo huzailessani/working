@@ -6,7 +6,7 @@ const DownloadForm = () => {
             <div className="our-value-system mt-5">
                 <div className="row">
                     <div className="col-md-12 ms-md-5 pe-5">
-                        <h2 className="values-system-heading mb-2 d-flex">Download Affidavit <GoDesktopDownload className="text-success ms-3" /></h2>
+                        <h2 className="values-system-heading mb-2 d-flex">Download Affidavit <GoDesktopDownload className=" ms-3" /></h2>
                         <p className="values-system-para">Affidavit on form A
                         </p>
                         {/* <p className="values-system-para">PROVINCIAL OMBUDSMAN (MOHTASIB) SECRETARIAT</p>
@@ -19,7 +19,7 @@ const DownloadForm = () => {
                         <div className="col-md-12 ">
                             <ul className="values-list">
                                 <li className="values-system-para mt-3">
-                                    <a className="underline "
+                                    <a className="underline text-success"
                                         href="/Form A (English Version).docx"
                                         download  // Add the download attribute
                                     >

@@ -7,7 +7,7 @@ const ComplaintFAQs = () => {
                 <div className="row">
                     <div className="col-md-12 ms-md-5 pe-5">
                         <h2 className="values-system-heading mb-2 ">
-                            <b className="d-flex"> Complaint FAQs <AiFillQuestionCircle className="text-success ms-3" /></b></h2>
+                            <b className="d-flex"> Complaint FAQs <AiFillQuestionCircle className=" ms-3" /></b></h2>
                         <div className="mt-4">
                             <p className="values-system-para"> <b> What can I complain to the Provincial Ombudsman (Mohtasib) Sindh about? </b> </p>
                             <p className="values-system-para"> We can receive and handle complaints against any case of maladministration in any Government of Sindh Agency. If you are not sure if your complaint is one we can help with, just ask us. </p>

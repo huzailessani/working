@@ -379,10 +379,10 @@ body {
 .deneb_cta .cta_wrapper .cta_content h3 {
   color: #fff;
   font-weight: bold;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
 }
 .cta_content p {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 @media (max-width: 767px) {
   .deneb_cta .cta_wrapper .cta_content h3 {
@@ -699,15 +699,15 @@ body {
 
 .slick-dots li button:before {
   margin-top: 10px;
-  color: #fff !important;
+  color: #1c1c1c !important;
 }
 
 .slick-dots li.slick-active button:before {
-  color: #fff !important;
+  color: #1c1c1c !important;
   height: 20px;
   width: 20px;
   border-radius: 50px;
-  border: 1px solid #fff;
+  border: 1px solid #1c1c1c;
 }
 
 .slick-next:before,
@@ -875,7 +875,7 @@ body {
   bottom: 0;
   position: absolute;
   left: 0;
-  background: #00000030;
+  background: #00000050;
   padding: 30px;
 }
 
@@ -1443,4 +1443,9 @@ body {
 
 .table {
   font-size: 1.2rem;
+}
+
+.photo-img {
+  height: 350px;
+  width: 450px;
 }

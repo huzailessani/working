@@ -43,7 +43,7 @@ const Contact = () => {
               </Link>
             </div>
             <div className="mt-3">
-              <Link className="learn-more mt-3 values-system-para underline text-success" href="/Regionaloffices">
+              <Link className="learn-more mt-3 values-system-para underline text-success" href="/About/RegionalOffices">
                 Click here for names and contacts of officers in the Provincial Ombudsman Regional Offices
               </Link>
             </div>

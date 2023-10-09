@@ -9,7 +9,7 @@ const ComplainAboutUs = () => {
             <div className="row">
                 <div className="col-md-12 ms-md-5 pe-5">
                     <h2 className="values-system-heading mb-2 ">
-                        <b className="d-flex">Complain About Us <AiFillQuestionCircle className="ms-3 text-success" /> </b> </h2>
+                        <b className="d-flex">Complain About Us <AiFillQuestionCircle className="ms-3" /> </b> </h2>
                     <h2 className="values-system-heading mb-2 ">  How to complain about us? </h2>
 
                     <p className="values-system-para">We take complaints about our service very seriously. If you are not happy with the way we have dealt with your case - or with the service we have provided - please let us know. You can send a complaint to the Secretary, Provincial Mohtasib Secretariat, if you think we have:</p>

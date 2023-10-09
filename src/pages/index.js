@@ -202,6 +202,7 @@ const Home = () => {
         },
       },
     ],
+
   };
 
 
@@ -850,16 +851,20 @@ const Home = () => {
         </Slider>
       </section> */}
 
-      <section className="ms-5 mb-5">
-
-        <Slider {...settings}>
-          {cards.map((item, index) => (
-            <div key={index}>
-              <Article data={item} />
-            </div>
-          ))}
-        </Slider>
-
+      <section className="ms-5 mt-5 mb-5 p-5">
+        <strong>
+          <h2 className="h2">What’s New</h2>
+        </strong>
+        <div className="">
+          <Slider {...settings}>
+            {cards.map((item, index) => (
+              <div key={index}>
+                {/* Your Article component */}
+                <Article data={item} />
+              </div>
+            ))}
+          </Slider>
+        </div>
       </section>
 
 
@@ -1200,7 +1205,7 @@ const Home = () => {
               </button>
             </h2>
             <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-              <div className="accordion-body values-system-para">We resolve complaints and provide relief to the public by carrying out independent investigations into complaints about maladministration in any Government of Sindh agency. We work to put things right and share lessons learned and help improve public services as a result. Our independent complaints handling service is free and open to everyone.</div>
+              <div className="accordion-body bg-dark values-system-para text-white">We resolve complaints and provide relief to the public by carrying out independent investigations into complaints about maladministration in any Government of Sindh agency. We work to put things right and share lessons learned and help improve public services as a result. Our independent complaints handling service is free and open to everyone.</div>
             </div>
           </div>
           <div class="accordion-item item-2">
@@ -1210,7 +1215,7 @@ const Home = () => {
               </button>
             </h2>
             <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-              <div class="accordion-body">
+              <div class="accordion-body bg-dark text-white">
                 <p className="values-system-para mt-2 pe-3">
                   We cannot help you if your complaint is about:
                 </p>
@@ -1342,7 +1347,7 @@ const Home = () => {
                   </div>
                 </div>
               </div> */}
-              <div className="accordion-body">
+              <div className="accordion-body bg-dark text-white">
 
                 <p className="values-system-para mt-2 pe-3">
                   We are an independent statuary body that promotes good governance
@@ -1428,6 +1433,8 @@ const Home = () => {
             </article>
           </div>
         </div>
+
+
       </section>
 
 
