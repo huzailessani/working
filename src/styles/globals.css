@@ -609,7 +609,7 @@ body {
 .event-container .event-thumbnail12 {
   width: auto;
   height: 260px;
-  background: url("/pic-12.jpg") no-repeat center;
+  background: url("/pic-12.png") no-repeat center;
   background-size: cover;
   border-radius: 3px;
 }
