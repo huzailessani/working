@@ -1450,9 +1450,9 @@ const Home = () => {
                 />
                 <div className="card-body-content">
                   <div className="borders"></div>
-                  <h3 className="title">Who We Are</h3>
+                  <h3 className="title">Our Commitment</h3>
                   <p className="text">
-                    The Provincial Ombudsman  Sindh(Mohtasib)  is an independent institution, established by statute, to provide speedy relief to any citizen or legal resident of Pakistan.
+                    We are committed to redress of public grievances in an efficient, effective and transparent manner.
                   </p>
                   <div className="arrow-border">
                     <BsArrowRight className="arrow-left" />
