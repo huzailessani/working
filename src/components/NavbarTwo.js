@@ -40,7 +40,7 @@ const NavbarTwo = () => {
                                     <li><Link class="dropdown-item" href="/About/TheSecratariat">The Secretariat</Link></li>
                                     <li><Link class="dropdown-item" href="/About/RegionalOffices">Regional offices</Link></li>
                                     {/* <li><Link class="dropdown-item" href="/About/Headquarter">Headquarter</Link></li> */}
-                                    <li><Link class="dropdown-item" href="/About/Organization">Organization</Link></li>
+                                    {/* <li><Link class="dropdown-item" href="/About/Organization">Organization</Link></li> */}
                                     {/* <li><Link class="dropdown-item" href="/About/Profiles">Profiles</Link></li> */}
                                 </ul>
                             </li>

@@ -124,15 +124,14 @@ const Links = () => {
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
-                                    IOI | Asian Region elects two new Directors for the IOI Board of Directors
+                                    IOI | International Ombudsman Institute
                                 </a>
                             </li>
 
 
                         </ul>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
+                        <li className="mt-2 values-system-para">Director IOI Asia Region</li>
+
 
 
                         <ul className="values-list">
@@ -149,9 +148,8 @@ const Links = () => {
 
 
                         </ul>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
+                        <li className="mt-2 values-system-para">Member</li>
+
                         <ul className="values-list">
 
                             <li className="values-system-para mt-3">
@@ -166,9 +164,8 @@ const Links = () => {
 
 
                         </ul>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
+                        <li className="mt-2 values-system-para">Member</li>
+
                         <ul className="values-list">
 
                             <li className="values-system-para mt-3">
@@ -183,11 +180,10 @@ const Links = () => {
 
 
                         </ul>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
+                        <li className="mt-2 values-system-para">Member</li>
 
-                        <ul className="values-list">
+
+                        {/* <ul className="values-list">
                             <li className="values-system-para mt-3">
                                 <a className="underline text-success"
                                     href="https://www.theioi.org/ioi-news/current-news/provincial-ombudsman-sindh-presents-annual-report-2020-to-chief-minister-sindh?pk_campaign=Newsletter-Ombudsman-News-40%2F2021&pk_source=newsletter"
@@ -214,7 +210,7 @@ const Links = () => {
                         </ul>
                         <li className="mt-2">Member</li>
                         <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
+                        <li className="mt-2">Member</li> */}
                     </div>
                 </div>
             </div>

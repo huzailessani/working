@@ -218,7 +218,7 @@ const Home = () => {
           data-bs-ride="carousel"
         >
           <div class="carousel-inner">
-            <div class="carousel-item active">
+            <div class="carousel-item  active" data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -232,7 +232,7 @@ const Home = () => {
               </div>
               {/* <p className="dash-text">Karachi South</p> */}
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -240,12 +240,12 @@ const Home = () => {
                 alt="slider1img"
 
               />
-              <div class="carousel-caption  d-none d-md-block">
+              <div class="carousel-caption  d-none d-md-block" >
                 <h5>KARACHI SOUTH</h5>
                 <p>Quaid-e-Azam House</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item  " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -258,7 +258,7 @@ const Home = () => {
                 <p>Quaid-e-Azam Mazar</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -266,12 +266,12 @@ const Home = () => {
                 alt="slider1img"
 
               />
-              <div class="carousel-caption  d-none d-md-block">
+              <div class="carousel-caption  d-none d-md-block" >
                 <h5>KARACHI WEST</h5>
                 <p>Native Jetty Bridge</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -284,7 +284,7 @@ const Home = () => {
                 <p>Jinnah Airport</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -297,7 +297,7 @@ const Home = () => {
                 <p>Lansdowne Bridge</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -310,7 +310,7 @@ const Home = () => {
                 <p>Naukot Fort</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -323,7 +323,7 @@ const Home = () => {
                 <p>Gorakh Hill</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -336,7 +336,7 @@ const Home = () => {
                 <p>Faiz Mahal</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -349,7 +349,7 @@ const Home = () => {
                 <p>Grand Mosque Allahabad</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -362,7 +362,7 @@ const Home = () => {
                 <p>Makli Necropolis</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -375,7 +375,7 @@ const Home = () => {
                 <p>Pakka Qila</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -388,7 +388,7 @@ const Home = () => {
                 <p>Airmen Golf Club</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -401,7 +401,7 @@ const Home = () => {
                 <p>Dalel Dero Fort</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -414,7 +414,7 @@ const Home = () => {
                 <p>Agham Kot</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -427,7 +427,7 @@ const Home = () => {
                 <p>Police Building</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"
@@ -440,7 +440,7 @@ const Home = () => {
                 <p>Chittori</p>
               </div>
             </div>
-            <div class="carousel-item ">
+            <div class="carousel-item " data-bs-interval="3000">
               {/* <img src="/img-2.jpg" alt="" className="dashboard-slider-image" /> */}
               <Image
                 className="dashboard-slider-image"

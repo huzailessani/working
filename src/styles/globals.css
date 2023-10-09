@@ -443,13 +443,16 @@ body {
 }
 .carousel-caption {
   z-index: 100;
-  font-size: 4.5rem;
-  margin-bottom: 10rem;
+  font-size: 2.5rem;
+  position: absolute;
+  top: 8%;
+  left: -55%;
+  /* margin-bottom: 10rem; */
 }
-.carousel-caption p {
+/* .carousel-caption p {
   z-index: 100;
   font-size: 2.8rem;
-}
+} */
 
 .cards {
   /* position: relative; */
