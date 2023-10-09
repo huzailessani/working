@@ -9,15 +9,15 @@ import baku3 from "/public/baku-3.jpg"
 import thai1 from "/public/thai1.jpeg"
 import thai2 from "/public/thai-2.jpeg"
 import thai3 from "/public/thai-3.jpeg"
-import cm1 from "/public/cm-1.JPG"
-import cm2 from "/public/cm-2.JPG"
-import cm3 from "/public/cm-3.JPG"
+import cm1 from "/public/cm-1.jpg"
+import cm2 from "/public/cm-2.jpg"
+import cm3 from "/public/cm-3.jpg"
 import gov1 from "/public/gov-1.jpg"
 import gov2 from "/public/gov-2.jpg"
 import gov3 from "/public/gov-3.jpg"
-import wel1 from "/public/wel-1.JPG"
-import wel2 from "/public/wel-2.JPG"
-import wel3 from "/public/wel-3.JPG"
+import wel1 from "/public/wel-1.jpg"
+import wel2 from "/public/wel-2.jpg"
+import wel3 from "/public/wel-3.jpg"
 const PhotoGallery = () => {
     return <BaseLayout>
         <div className="container text-center mt-5 mb-3">
@@ -127,8 +127,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={wel2}
                         alt=""
-                        width={450}
-                        height={450}
+                        width={350}
+                        height={350}
                     />
                 </div>
                 <div className="col-md-4 col-12 d-flex justify-content-center align-items-center">
@@ -136,8 +136,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={wel3}
                         alt=""
-                        width={450}
-                        height={450}
+                        width={350}
+                        height={350}
                     />
                 </div>
             </div>
@@ -148,8 +148,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={cm1}
                         alt="slider1img"
-                        width={450}
-                        height={450}
+                        width={350}
+                        height={350}
                     />
                 </div>
                 <div className="col-md-4 col-12 d-flex justify-content-center align-items-center">
@@ -157,8 +157,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={cm2}
                         alt=""
-                        width={450}
-                        height={450}
+                        width={350}
+                        height={350}
                     />
                 </div>
                 <div className="col-md-4 col-12 d-flex justify-content-center align-items-center">
@@ -166,8 +166,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={cm3}
                         alt=""
-                        width={450}
-                        height={450}
+                        width={350}
+                        height={350}
                     />
                 </div>
             </div>
@@ -178,8 +178,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={gov1}
                         alt="slider1img"
-                        width={450}
-                        height={450}
+                        width={350}
+                        height={350}
                     />
                 </div>
                 <div className="col-md-4 col-12 d-flex justify-content-center align-items-center">
@@ -187,8 +187,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={gov2}
                         alt=""
-                        width={450}
-                        height={450}
+                        width={350}
+                        height={350}
                     />
                 </div>
                 <div className="col-md-4 col-12 d-flex justify-content-center align-items-center">
@@ -196,8 +196,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={gov3}
                         alt=""
-                        width={450}
-                        height={450}
+                        width={350}
+                        height={350}
                     />
                 </div>
             </div>
