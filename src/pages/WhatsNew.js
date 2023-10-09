@@ -6,7 +6,153 @@ const WhatsNew = () => {
     return <BaseLayout>
         <div className="container">
 
-            <div className="our-value-system mt-5">
+            <section className="container mb-5 d-flex justify-content-center align-items-center events-wrapper">
+
+                <div className="row us-card">
+                    <h2 className="h2 mt-5 text-center">Success Stories</h2>
+                    <div className="col-md-4 p-2">
+                        <article className="event-container">
+                            <div class="event-thumbnail1"></div>
+
+                            <div class="event-info">
+                                <h2 class="event-title">Success Story</h2>
+                                <h3 class="event-spots">lady complainant</h3>
+
+                                <p class="event-description">
+                                    Cheque of Rs. 130,000/- presented by DMC South Karachi
+                                    towards 2nd installment of out standing dues on account of
+                                    medical reimbursement handed over to lady.
+                                </p>
+
+                            </div>
+                        </article>
+                    </div>
+                    <div className="col-md-4 p-2">
+                        <article className="event-container">
+                            <div class="event-thumbnail2"></div>
+                            <div class="event-info">
+                                <h2 class="event-title">Success Story</h2>
+
+                                <h3 class="event-spots">Service Dues</h3>
+                                <p class="event-description">
+                                    Prof. (Rtd) Liaquat Ali Khawaja & two Other
+                                    professors received their service dues of Rs.
+                                    25,000,000/-(Rupees Twenty Five Million)
+
+
+                                </p>
+
+                            </div>
+                        </article>
+                    </div>
+                    <div className="col-md-4 p-2">
+                        <article className="event-container">
+                            <div class="event-thumbnail3"></div>
+                            <div class="event-info">
+                                <h2 class="event-title">Success Story</h2>
+                                <h3 class="event-spots">Widow Complainant</h3>
+                                <p class="event-description">
+                                    Mr. Nazir Ahmed Qidwai, Regional Director,
+                                    Karachi Central handed over a cheque of
+                                    service dues to a widow complainant.
+                                </p>
+
+                            </div>
+                        </article>
+                    </div>
+                    <div className="col-md-4 p-2">
+                        <article className="event-container">
+                            <div class="event-thumbnail4"></div>
+                            <div class="event-info">
+                                <h2 class="event-title">Success Story</h2>
+                                <h3 class="event-spots">Water And Sewerage</h3>
+                                <p class="event-description">
+                                    Mr. Hussain Muhammad filed a complaint against Karachi Water & Sewerage Board regarding delay in payment of
+                                    gratuity / commutation. The complaint was admitted and
+                                    notice was issued.
+                                </p>
+
+                            </div>
+                        </article>
+                    </div>
+                    <div className="col-md-4 p-2">
+                        <article className="event-container">
+                            <div class="event-thumbnail5"></div>
+                            <div class="event-info">
+                                <h2 class="event-title">Success Story</h2>
+                                <h3 class="event-spots">Controller Of Examination</h3>
+                                <p class="event-description">
+                                    Miss. Samina Anwar filed a complaint against Controller of
+                                    Examination, University of Sindh for issuance of Pass Certificate and Marks sheet of
+                                    B.Sc as she had appeared in the examination.
+                                </p>
+
+                            </div>
+                        </article>
+                    </div>
+                    <div className="col-md-4 p-2">
+                        <article className="event-container">
+                            <div class="event-thumbnail6"></div>
+                            <div class="event-info">
+                                <h2 class="event-title">Success Story</h2>
+                                <h3 class="event-spots">Plot Allotment</h3>
+                                <p class="event-description">
+                                    Mr. Khadim Hussain Mirani filed a complaint  against the Market Committee, Karachi. The issue is shop plot allotment and possession despite full payment in 2008.
+                                </p>
+
+                            </div>
+                        </article>
+                    </div>
+                    <div className="col-md-4 p-2">
+                        <article className="event-container">
+                            <div class="event-thumbnail10"></div>
+                            <div class="event-info">
+                                <h2 class="event-title">Success Story</h2>
+                                <h3 class="event-spots">Delay In Payment</h3>
+                                <p class="event-description">
+                                    Ms. Safia Bano wd/o Muhammad Javed Siyal filed a complaint regarding
+                                    delay in payment of service of her deceased husband. The
+                                    complaint was admitted and notice was issued to Agency concerned.
+                                </p>
+
+                            </div>
+                        </article>
+                    </div>
+                    <div className="col-md-4 p-2">
+                        <article className="event-container">
+                            <div class="event-thumbnail11"></div>
+                            <div class="event-info">
+                                <h2 class="event-title">Success Story</h2>
+                                <h3 class="event-spots">Plot Allotment</h3>
+                                <p class="event-description">
+                                    Mr. Haji Baloch filed a complaint against Administrator, M.C.
+                                    Mirpurkhas alleging inordinate delay in issuance of Allotment Order.
+                                    Notice was issued to the agency concerned.
+                                </p>
+
+                            </div>
+                        </article>
+                    </div>
+                    <div className="col-md-4 p-2">
+                        <article className="event-container">
+                            <div class="event-thumbnail12"></div>
+                            <div class="event-info">
+                                <h2 class="event-title">Success Story</h2>
+                                <h3 class="event-spots">Illegal Business</h3>
+                                <p class="event-description">
+                                    Dr. Muhammad Zahoor Qureshi filed a complaint
+                                    against illegal business of acid and nickel polish by some private persons notice was issued to the agency concerned.                                </p>
+
+                            </div>
+                        </article>
+                    </div>
+
+                </div>
+
+
+            </section>
+
+            {/* <div className="our-value-system mt-5">
                 <div className="row">
                     <div className="col-md-12 ">
                         <h2 className="values-system-heading d-flex">Whats New  <RiLightbulbFlashLine class="ms-3 text-success" /> </h2>
@@ -61,9 +207,9 @@ const WhatsNew = () => {
                             PRESIDENT IOI MR. CHIRS FILED
                             MEETS HONOURABLE GOVERNOR
                             SINDH ON 14.03.2023
-                        </li>
+                        </li> */}
 
-                        {/* <li className="values-system-para mt-3">
+            {/* <li className="values-system-para mt-3">
                             Development funds of three schools at Gadap Town, Karachi, released on the order of Provincial Ombudsman. (it was also reported in daily ?Khabrain? on March 14, 2011).
                         </li>
                         <li className="values-system-para mt-3">
@@ -109,9 +255,9 @@ const WhatsNew = () => {
                         <li className="values-system-para mt-3">
                             Provincial Ombudsman Sindh was Chief Guest at the launching ceremony of book ?Qalam Goed? held on November 15, 2011. (Book review and News cuttings appeared on 16, 17 and 19th November 2011).
                         </li> */}
-                    </div>
+            {/* </div>
                 </div>
-            </div>
+            </div> */}
 
             {/* <div className="our-value-system mt-5">
                 <div className="row">

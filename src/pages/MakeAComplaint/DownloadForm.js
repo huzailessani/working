@@ -28,7 +28,7 @@ const DownloadForm = () => {
                                 </li>
                                 <li className="values-system-para mt-3">
                                     <a className="underline text-success"
-                                        href="/forms/Form A (Urdu).pdf"
+                                        href="/Form A (Urdu Version).docx"
                                         download  // Add the download attribute
                                     >
                                         Form A (Urdu Version)
@@ -36,7 +36,7 @@ const DownloadForm = () => {
                                 </li>
                                 <li className="values-system-para mt-3">
                                     <a className="underline text-success"
-                                        href="/forms/Form A (Sindhi).pdf"
+                                        href="/Form A (Sindhi Version).docx"
                                         download  // Add the download attribute
                                     >
                                         Form A (Sindhi Version)

@@ -552,14 +552,14 @@ body {
 .event-container .event-thumbnail1 {
   width: auto;
   height: 260px;
-  background: url("/us-2.jpg") no-repeat center;
+  background: url("/pic-4.PNG") no-repeat center;
   background-size: cover;
   border-radius: 3px;
 }
 .event-container .event-thumbnail2 {
   width: auto;
   height: 260px;
-  background: url("/lady-2.PNG") no-repeat center;
+  background: url("/pic-5.PNG") no-repeat center;
 
   background-size: cover;
   border-radius: 3px;
@@ -567,28 +567,49 @@ body {
 .event-container .event-thumbnail3 {
   width: auto;
   height: 260px;
-  background: url("/us-2.jpg") no-repeat center;
+  background: url("/pic-6.PNG") no-repeat center;
   background-size: cover;
   border-radius: 3px;
 }
 .event-container .event-thumbnail4 {
   width: auto;
   height: 260px;
-  background: url("/pic-1.PNG") no-repeat center;
+  background: url("/pic-7.jpg") no-repeat center;
   background-size: cover;
   border-radius: 3px;
 }
 .event-container .event-thumbnail5 {
   width: auto;
   height: 260px;
-  background: url("/pic-2.PNG") no-repeat center;
+  background: url("/pic-8.jpg") no-repeat center;
   background-size: cover;
   border-radius: 3px;
 }
 .event-container .event-thumbnail6 {
   width: auto;
   height: 260px;
-  background: url("/pic-3.PNG") no-repeat center;
+  background: url("/pic-9.jpg") no-repeat center;
+  background-size: cover;
+  border-radius: 3px;
+}
+.event-container .event-thumbnail10 {
+  width: auto;
+  height: 260px;
+  background: url("/pic-10.PNG") no-repeat center;
+  background-size: cover;
+  border-radius: 3px;
+}
+.event-container .event-thumbnail11 {
+  width: auto;
+  height: 260px;
+  background: url("/pic-11.PNG") no-repeat center;
+  background-size: cover;
+  border-radius: 3px;
+}
+.event-container .event-thumbnail12 {
+  width: auto;
+  height: 260px;
+  background: url("/pic-12.JPG") no-repeat center;
   background-size: cover;
   border-radius: 3px;
 }
