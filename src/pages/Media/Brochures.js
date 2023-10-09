@@ -26,14 +26,7 @@ const KnowledgeProduct = () => {
                                     FAQ’S Urdu Version
                                 </a>
                             </li>
-                            <li className="values-system-para mt-3">
-                                <a className="underline text-success"
-                                    href="/brochure-3.pdf"
-                                    download  // Add the download attribute
-                                >
-                                    FAQ’S Sindhi Version
-                                </a>
-                            </li>
+
 
 
                         </ul>
