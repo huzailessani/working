@@ -29,7 +29,7 @@ const Tenders = () => {
                             </li>
                             <li className="values-system-para mt-3">
                                 <a className="underline text-success"
-                                    href="/pdfs/TD Complete.pdf"
+                                    href="/pdfs/TD  Complete.pdf"
                                     download
                                 >
                                     TENDER NOTICE & BIDDING DOCUMENTS OF HARDWARE ASSISTS AND MACHINERY & EQUIPMENTS (2021-2022)
