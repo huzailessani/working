@@ -118,8 +118,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={wel1}
                         alt="slider1img"
-                        width={450}
-                        height={450}
+                        width={350}
+                        height={350}
                     />
                 </div>
                 <div className="col-md-4 col-12 d-flex justify-content-center align-items-center">
@@ -127,8 +127,8 @@ const PhotoGallery = () => {
                         className="photo-img"
                         src={wel2}
                         alt=""
-                        width={350}
-                        height={350}
+                        width={450}
+                        height={450}
                     />
                 </div>
                 <div className="col-md-4 col-12 d-flex justify-content-center align-items-center">
