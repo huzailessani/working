@@ -120,7 +120,7 @@ const Links = () => {
 
                             <li className="values-system-para mt-3">
                                 <a className="underline text-success"
-                                    href="https://www.theioi.org/ioi-news/current-news/asian-region-elects-two-new-directors-for-the-ioi-board-of-directors?pk_campaign=Newsletter-Ombudsman-News-34%2F2021&pk_source=newsletter"
+                                    href="https://www.theioi.org/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
