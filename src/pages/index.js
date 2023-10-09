@@ -1438,7 +1438,7 @@ const Home = () => {
       <section className="wrapper-justice mb-5">
         <div className="container-fluid">
           <div className="target-items">
-            <Link href="/About/WhoWeAre">
+            <Link href="/About/OurCommitment">
               <div className="card-items">
 
                 <Image
