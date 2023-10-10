@@ -6,7 +6,7 @@ const NavbarTwo = () => {
     return (
         <>
 
-            <nav class="navbar navbar-two navbar-expand-lg navbar-dark bg-dark">
+            <nav class="navbar navbar-two navbar-expand-xl navbar-dark bg-dark">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
                         <Link href="/">
@@ -57,7 +57,7 @@ const NavbarTwo = () => {
                                 </Link>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/MakingAComplaint">How To Lodge A Complaint</Link></li>
-                                    <li><Link class="dropdown-item" href="//MakeAComplaint/ComplaintFAQs">Complaint FAQs</Link></li>
+                                    <li><Link class="dropdown-item" href="/MakeAComplaint/ComplaintFAQs">Complaint FAQs</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/DownloadForm">Download Form</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/MakeAComplaintOnline">Online Complaint Registration</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/ComplainAboutUs">Complain About Us</Link></li>

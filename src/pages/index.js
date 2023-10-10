@@ -663,22 +663,23 @@ const Home = () => {
           <div className="col-6 d-flex justify-content-center">
 
             <div className="vision-missionbg our-value-system downing bg-dark text-white" onClick={() => showData(2)}>
-              <h1 className="counter-heading">COMPLAINTS RECEIVED</h1>
+              <h1 className="counter-heading">COMPLAINTS PROCESS</h1>
             </div>
 
           </div>
-          <div className="col-6 d-flex justify-content-center">
+
+          {/* <div className="col-6 d-flex justify-content-center">
 
             <div className="vision-missionbg our-value-system downing bg-dark text-white" onClick={() => showData(1)}>
               <h1 className="counter-heading">DISPOSAL OF COMPLAINTS</h1>
             </div>
 
-          </div>
+          </div> */}
 
         </div>
 
         <div className="col-md-12 container  our-value-system p-5">
-          <div id="data1" className="col-md-12 container p-3" style={{ display: activeData === 1 ? 'block' : 'none' }}>
+          {/* <div id="data1" className="col-md-12 container p-3" style={{ display: activeData === 1 ? 'block' : 'none' }}>
             <div className="row justify-content-center">
 
               <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
@@ -713,11 +714,11 @@ const Home = () => {
               </div>
 
             </div>
-          </div>
+          </div> */}
 
           <div id="data2" className="col-md-12 container p-3" style={{ display: activeData === 2 ? 'block' : 'none' }}>
             <div className="row justify-content-center">
-              <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
+              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <BsFillPhoneVibrateFill className="counter-icon mt-3" />
                   <div className="big-text">
@@ -727,7 +728,7 @@ const Home = () => {
                 </div>
               </div>
 
-              <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
+              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <BsFillSignpostFill className="counter-icon mt-3" />
                   <div className="big-text">
@@ -736,7 +737,7 @@ const Home = () => {
                   <div className="values-system-para"> By Post</div>
                 </div>
               </div>
-              <div className="col-md-4 col-sm-6 col-12 mb-3 text-center">
+              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
                 <div className="d-flex flex-column align-items-center">
                   <BsFillPeopleFill className="counter-icon mt-3" />
                   <div className="big-text">
@@ -745,10 +746,19 @@ const Home = () => {
                   <div className="values-system-para">In Person</div>
                 </div>
               </div>
+              <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
+                <div className="d-flex flex-column align-items-center">
+                  <GiNotebook className="counter-icon mt-3" />
+                  <div className="big-text">
+                    <Counter number={1584} />
+                  </div>
+                  <div className="values-system-para">Complaints Disposed Off</div>
+                </div>
+              </div>
             </div>
           </div>
 
-          <div id="data3" className="col-md-12 container p-3" style={{ display: activeData === 3 ? 'block' : 'none' }}>
+          {/* <div id="data3" className="col-md-12 container p-3" style={{ display: activeData === 3 ? 'block' : 'none' }}>
             <div className="row justify-content-center">
               <h1 className="text-center big-text mb-4 mt-4">Performance Achieved</h1>
               <div className="col-md-3 col-sm-6 col-12 mb-3 text-center">
@@ -789,7 +799,7 @@ const Home = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </section>
 

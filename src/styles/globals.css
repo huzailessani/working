@@ -1345,3 +1345,9 @@ body {
   height: 350px;
   width: 450px;
 }
+
+@media (max-width: 1100px) {
+  .carousel-caption {
+    display: none !important;
+  }
+}

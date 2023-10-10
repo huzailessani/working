@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <>
 
-            <nav class="navbar navbar-one navbar-expand-lg navbar-transparent bg-transparent">
+            <nav class="navbar navbar-one navbar-expand-xl navbar-dark bg-dark">
                 <div class="container-fluid">
                     <Link href="/">
                         <Image
@@ -28,12 +28,10 @@ const Navbar = () => {
                                     About us
                                 </Link>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-
                                     <li><Link class="dropdown-item" href="/About/OurCharter">Our Charter / Sindh Ombudsman Act</Link></li>
                                     <li><Link class="dropdown-item" href="/About/OurCommitment">Our Commitment</Link></li>
                                     <li><Link class="dropdown-item" href="/About/TheSecratariat">The Secretariat</Link></li>
                                     <li><Link class="dropdown-item" href="/About/RegionalOffices">Regional offices</Link></li>
-
                                 </ul>
                             </li>
 
@@ -50,7 +48,7 @@ const Navbar = () => {
                                 </Link>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/MakingAComplaint">How To Lodge A Complaint</Link></li>
-                                    <li><Link class="dropdown-item" href="//MakeAComplaint/ComplaintFAQs">Complaint FAQs</Link></li>
+                                    <li><Link class="dropdown-item" href="/MakeAComplaint/ComplaintFAQs">Complaint FAQs</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/DownloadForm">Download Form</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/MakeAComplaintOnline">Online Complaint Registration</Link></li>
                                     <li><Link class="dropdown-item" href="/MakeAComplaint/ComplainAboutUs">Complain About Us</Link></li>
