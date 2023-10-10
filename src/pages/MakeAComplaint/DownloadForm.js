@@ -9,13 +9,7 @@ const DownloadForm = () => {
                         <h2 className="values-system-heading mb-2 d-flex">Download Affidavit <GoDesktopDownload className=" ms-3" /></h2>
                         <p className="values-system-para">Affidavit on form A
                         </p>
-                        {/* <p className="values-system-para">PROVINCIAL OMBUDSMAN (MOHTASIB) SECRETARIAT</p>
-                        <p className="values-system-para mt-4">HEADQUARTER</p>
-                        <p className="values-system-para ">Secretariat Provincial Ombudsman, Sindh</p>
-                        <p className="values-system-para ">Shahrah-e-Kamal Ataturk,</p>
-                        <p className="values-system-para ">Opp. Sindh Secretariat, Karachi.</p>
-                        <p className="values-system-para ">Contact : 021-99211025, 99211031</p>
-                        <p className="values-system-para ">Fax : 021-99211262, 99211091</p> */}
+
                         <div className="col-md-12 ">
                             <ul className="values-list">
                                 <li className="values-system-para mt-3">

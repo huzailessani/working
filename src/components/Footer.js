@@ -36,11 +36,7 @@ const Footer = () => {
                                         <img src="assets/images/logo_1.png" className="img-fluid" alt="" />
                                     </div>
                                     <p align="justify">We address complaints and offer relief to the public by conducting unbiased investigations into grievances concerning maladministration within any government agency in Sindh.</p>
-                                    {/* <ul className="social">
-                                        <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i className="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i className="fab fa-instagram"></i></a></li>
-                                    </ul> */}
+
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-6 col-sm-12 offset-lg-1">
@@ -76,7 +72,7 @@ const Footer = () => {
                                             </div>
                                             <div className="info">
                                                 <p><a href="mailto:mohtasibhd@yahoo.com">info@Ombudsman Sindh.com</a></p>
-                                                {/* <p><a href="mailto:services@deneb.com">services@Ombudsman Sindh.com</a></p> */}
+
 
                                             </div>
                                         </div>

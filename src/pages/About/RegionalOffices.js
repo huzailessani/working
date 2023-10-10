@@ -14,62 +14,6 @@ const RegionalOffices = () => {
                         <p className="values-system-para mt-2">
                             To facilitate the citizens, Provincial Ombudsman Sindh (Mohtasib) has set up 19 regional office at
                         </p>
-                        {/* <li className="values-system-para mt-2">
-                            Badin
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Hyderabad
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Karachi Central
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Karachi South
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Jacobabad
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Larkana
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Mirpur Khas
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Mithi
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Naushahro Feroze
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Sukkur
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Thatta
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Ghotki
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Dadu
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Khairpur
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Shaheed Benazir Abad (Nawabshah)
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Sanghar
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Karachi West/Keamari
-                        </li>
-                        <li className="values-system-para mt-2">
-                            Karachi Korangi
-                        </li> */}
-
-
                     </div>
                 </div>
             </div>
@@ -179,26 +123,7 @@ const RegionalOffices = () => {
                 </div>
                 <div className="row justify-content-around">
                     <div className="our-value-system mt-5 col-md-5">
-                        {/* <div className="row">
-                            <div className=" ">
-                                <h2 className="values-system-heading d-flex">HEADQUARTER  <GiPostOffice className=" ms-3" /></h2>
-                                <p className="values-system-para mt-2">
-                                    Secretariat Provincial Ombudsman , Sindh
-                                </p>
-                                <p className="values-system-para mt-2">
-                                    Shahrah-e-Kamal Ataturk Ombudsman , Sindh Karachi
-                                </p>
-                                <p className="values-system-para mt-2">
-                                    Contact : 021-99211025
-                                </p>
-                                <p className="values-system-para mt-2">
-                                    Website : www.mohtasibsindh.gov.pk
-                                </p>
-                                <p className="values-system-para mt-2">
-                                    Email : www.mohtasibhd@yahoo.com
-                                </p>
-                            </div>
-                        </div> */}
+
 
                         <div className="row">
                             <div className=" ">
@@ -209,9 +134,7 @@ const RegionalOffices = () => {
                                     plot No. D-124, Sector 31-E, Lucknow Cooperative Society, Karachi
                                 </p>
 
-                                {/* <p className="values-system-para mt-2">
-                                    Contact:0722-921222
-                                </p> */}
+
 
                                 <p className="values-system-para mt-2">
                                     Email:rdmohtkhikor@gmail.com
@@ -521,20 +444,7 @@ const RegionalOffices = () => {
                         </div>
                     </div>
                 </div>
-                {/* <div className="row justify-content-center">
-                    <div className="our-value-system mt-2 col-md-5">
-                        <div className="row">
-                            <div className=" ">
-                                <h2 className="values-system-heading d-flex">Regional Office <ImOffice className=" ms-3" /></h2>              <p className="values-system-para mt-2">
-                                    Provincial Ombudsman Sindh , Sanghar
-                                </p>
-                               
 
-                            </div>
-                        </div>
-                    </div>
-
-                </div> */}
             </div>
         </div>
 

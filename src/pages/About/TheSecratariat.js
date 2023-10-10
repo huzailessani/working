@@ -15,21 +15,10 @@ const TheSecretariat = () => {
                         <p className="values-system-para mt-2">
                             The Headquarter of Secretariat Provincial Ombudsman (Mohtasib) Sindh is located at Karachi.
                         </p>
-                        {/* <p className="values-system-para mt-2">
-                            19 Regional offices at district level throughout Sindh Province
-                        </p> */}
+
                     </div>
                 </div>
-                {/* <div className="mt-3">
-                    <Link className="learn-more mt-2 underline text-success" href="/Headquarter">
-                        Click here for names and contacts of officers in the Provincial Ombudsman Secretariat/Headquarter
-                    </Link>
-                </div>
-                <div className="mt-3">
-                    <Link className="learn-more mt-3 underline text-success" href="/Regionaloffices">
-                        Click here for names and contacts of officers in the Provincial Ombudsman Regional Offices
-                    </Link>
-                </div> */}
+
             </div>
             <div className="our-value-system mt-5">
                 <div className="row">

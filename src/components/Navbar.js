@@ -28,38 +28,16 @@ const Navbar = () => {
                                     About us
                                 </Link>
                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    {/* <li><Link class="dropdown-item" href="/About/WhoWeAre">Who We Are</Link></li> */}
+
                                     <li><Link class="dropdown-item" href="/About/OurCharter">Our Charter / Sindh Ombudsman Act</Link></li>
                                     <li><Link class="dropdown-item" href="/About/OurCommitment">Our Commitment</Link></li>
                                     <li><Link class="dropdown-item" href="/About/TheSecratariat">The Secretariat</Link></li>
                                     <li><Link class="dropdown-item" href="/About/RegionalOffices">Regional offices</Link></li>
-                                    {/* <li><Link class="dropdown-item" href="/About/Headquarter">Headquarter</Link></li> */}
-                                    {/* <li><Link class="dropdown-item" href="/About/Organization">Organization</Link></li> */}
-                                    {/* <li><Link class="dropdown-item" href="/About/Profiles">Profiles</Link></li> */}
-                                </ul>
-                            </li>
-                            {/* <li class="nav-item dropdown">
-                                <Link class="nav-link dropdown-toggle text-white me-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Our Services
-                                </Link>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><Link class="dropdown-item" href=" /OurServices/WhatWeDo">What We Do</Link></li>
-                                    <li><Link class="dropdown-item" href="/OurServices/WhatWeDontDo">What We Dont Do</Link></li>
-                                    <li><Link class="dropdown-item" href="/OurServices/HowCanWeHelpYou">How Can We Help You</Link></li>
-                                </ul>
-                            </li> */}
-                            {/* <li class="nav-item dropdown">
-                                <Link class="nav-link dropdown-toggle text-white me-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Children Complaints Office
-                                </Link>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><Link class="dropdown-item" href="/ChildrenComplaint/PressRelease">Press Release</Link></li>
-                                    <li><Link class="dropdown-item" href="/ChildrenComplaint/Events">Events</Link></li>
-                                    <li><Link class="dropdown-item" href="/ChildrenComplaint/IntroductionCCO">Introduction CCO</Link></li>
-                                    <li><Link class="dropdown-item" href="/ChildrenComplaint/Brochures">Brochures</Link></li>
 
                                 </ul>
-                            </li> */}
+                            </li>
+
+
                             <li class="nav-item ">
                                 <Link class="nav-link  text-white me-3" href="/ChildrenComplaints" id="" role="button" >
                                     Children Complaints Office
@@ -92,18 +70,7 @@ const Navbar = () => {
                                     <li><Link class="dropdown-item" href="/Media/PhotoGallery">Photo Gallery</Link></li>
                                 </ul>
                             </li>
-                            {/* <li class="nav-item dropdown">
-                                <Link class="nav-link dropdown-toggle text-white me-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    Special Initiatives
-                                </Link>
-                                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
 
-                                    <li><Link class="dropdown-item" href="/SpecialInitiatives/SPGRM">SPGRM</Link></li>
-                                    <li><Link class="dropdown-item" href="/SpecialInitiatives/REACH">REACH</Link></li>
-                                    <li><Link class="dropdown-item" href="/SpecialInitiatives/AOARETA">AOA RETA</Link></li>
-
-                                </ul>
-                            </li> */}
                             <li class="nav-item ">
                                 <Link class="nav-link  text-white me-3" href="/Affiliations" id="" role="button" >
                                     Affiliations

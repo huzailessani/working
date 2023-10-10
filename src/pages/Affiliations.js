@@ -181,36 +181,6 @@ const Links = () => {
 
                         </ul>
                         <li className="mt-2 values-system-para">Member</li>
-
-
-                        {/* <ul className="values-list">
-                            <li className="values-system-para mt-3">
-                                <a className="underline text-success"
-                                    href="https://www.theioi.org/ioi-news/current-news/provincial-ombudsman-sindh-presents-annual-report-2020-to-chief-minister-sindh?pk_campaign=Newsletter-Ombudsman-News-40%2F2021&pk_source=newsletter"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    PAKISTAN | Provincial Ombudsman Sindh presents Annual Report 2020 to Chief Minister Sindh
-                                </a>
-                            </li>
-                        </ul>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
-                        <ul className="values-list">
-                            <li className="values-system-para mt-3">
-                                <a className="underline text-success"
-                                    href="https://www.theioi.org/ioi-news/current-news/launching-ceremony-of-study-on-issues-of-girls-education-in-sindh?pk_campaign=Newsletter-Ombudsman-News-43%2F2021&pk_source=newsletter"
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    PAKISTAN | Launching ceremony of study on “Issues of girls education in Sindh”
-                                </a>
-                            </li>
-                        </ul>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li>
-                        <li className="mt-2">Member</li> */}
                     </div>
                 </div>
             </div>
